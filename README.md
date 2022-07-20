@@ -2,8 +2,9 @@
 
 ## My Awsome CV
 
-- [x] [link text](http://google.com)
-- [x] [another link](http://google.com)
+- [x] [Google](http://google.com)
+- [x] [Bing](https://www.bing.com/)
+- [x] [Duckduckgo](https://duckduckgo.com/)
 
 You can find github docs [here](https://help.github.com/en).
 
