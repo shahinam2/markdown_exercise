@@ -20,4 +20,4 @@ You can find github docs [here](https://help.github.com/en).
 |  Name  |  Age |
 | ------ | :--: |
 | Shahin |  32  |
-| Fish   |  ?   |
+| Fish   |  10  |
