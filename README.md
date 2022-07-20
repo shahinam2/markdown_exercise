@@ -2,7 +2,7 @@
 
 ## My Awsome CV
 
-- [x] [Google](http://google.com)
+- [ ] [Google](http://google.com)
 - [x] [Bing](https://www.bing.com/)
 - [x] [Duckduckgo](https://duckduckgo.com/)
 
