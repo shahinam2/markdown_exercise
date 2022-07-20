@@ -5,7 +5,7 @@
 - [ ] [Google](http://google.com)
 - [x] [Bing](https://www.bing.com/)
 - [x] [Duckduckgo](https://duckduckgo.com/)
-- [ ] [yahoo](https://yahoo.com/)
+- [x] [yahoo](https://yahoo.com/)
 
 
 You can find github docs [here](https://help.github.com/en).
